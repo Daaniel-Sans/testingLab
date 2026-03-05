@@ -1,20 +1,21 @@
+# Project: Batalla en la Tierra Media (JAVA)
 
-# Proyecto: Batalla en la Tierra Media (JAVA)
+![Elven Middle-earth Battle](elvish-header.png)
 
-¡La Tierra Media está en guerra! En ella lucharán razas leales a **Sauron** contra otras bondadosas que no quieren que el mal reine sobre sus tierras.
+Middle-earth is at war! Races loyal to **Sauron** will fight against the free peoples who refuse to let evil reign over their lands.
 
-## 📊 Valores de las Razas
+## 📊 Race Values
 
-Cada raza tiene asociado un "valor" entre **1 y 5**:
+Each race is assigned a "power value" between **1 and 5**:
 
-### Razas Bondadosas:
+### Razas Bondadosas (Good):
 * **Pelosos:** 1
 * **Sureños buenos:** 2
 * **Enanos:** 3
 * **Númenóreanos:** 4
 * **Elfos:** 5
 
-### Razas Malvadas:
+### Razas Malvadas (Evil):
 * **Sureños malos:** 2
 * **Orcos:** 2
 * **Goblins:** 2
@@ -23,15 +24,18 @@ Cada raza tiene asociado un "valor" entre **1 y 5**:
 
 ---
 
-## ⚔️ Funcionamiento del Programa
+## ⚔️ How the Program Works
 
-Crea un programa que calcule el resultado de la batalla entre los 2 tipos de ejércitos:
+Create a program to calculate the outcome of the battle between the two types of armies:
 
-* **Resultados posibles:** Puede ser que gane el bien, el mal, o exista un empate. Dependiendo de la suma del valor del ejército y el número de integrantes.
-* **Composición:** Cada ejército puede estar compuesto por un número de integrantes variable de cada raza.
+* **Possible Outcomes:** The victory can go to the side of Good, Evil, or result in a Tie. This depends on the total sum of the army's power values and the number of its members.
+* **Composition:** Each army can be composed of a variable number of members from each race.
 
-### Ejemplos de lógica:
-* **1 Peloso** pierde contra **1 Orco**
-* **2 Pelosos** empatan contra **1 Orco**
-* **3 Pelosos** ganan a **1 Orco**
+### Logic Examples:
+* **1 Peloso** loses against **1 Orco**
+* **2 Pelosos** tie against **1 Orco**
+* **3 Pelosos** win against **1 Orco**
+
+----
+
 

@@ -1,7 +1,5 @@
 # Project: Batalla en la Tierra Media (JAVA)
 
-![Elven Middle-earth Battle](elvish-header.png)
-
 Middle-earth is at war! Races loyal to **Sauron** will fight against the free peoples who refuse to let evil reign over their lands.
 
 ## 📊 Race Values
